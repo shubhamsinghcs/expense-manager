@@ -1,0 +1,6 @@
+{
+  "name": "FlatSplit",
+  "description": "A mobile-first four-person flat expense manager with Quick Add, equal/selective splits, debt simplification, settlement recording, and CSV/PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
